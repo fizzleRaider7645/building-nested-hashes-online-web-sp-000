@@ -4,4 +4,5 @@ def first_challenge
 #   :capulet => {}
 # }
 epic_tragedy = Hash.new({})
+epic_tragedy[:montague]
 end
